@@ -1,59 +1,71 @@
 {
-  "updatedAt": "2026-10-26T09:00:00+08:00",
+  "updatedAt": "2026-10-27T09:09:43.729Z",
   "resources": [
     {
       "id": "kankanya",
       "name": "看看鸭",
-      "url": "https://www.kankanya.me",
+      "url": "https://www.kankanya.me/",
       "category": "高清影视",
       "description": "来源：awesome-zhuiju-free；上游 2026-10-26 检测主页可访问，搜索功能未单独验证。",
       "status": "upstream_reachable",
-      "source": "awesome-zhuiju-free"
+      "source": "awesome-zhuiju-free",
+      "syncStatus": "listed_in_upstream",
+      "lastSyncedAt": "2026-10-27T09:09:43.729Z"
     },
     {
       "id": "chuangxiang",
       "name": "创享影视",
-      "url": "https://ys.cxkjg.cn",
+      "url": "https://ys.cxkjg.cn/api/provide/tvbox",
       "category": "综合影视",
       "description": "来源：awesome-zhuiju-free；上游 2026-10-26 检测主页可访问，搜索功能未单独验证。",
       "status": "upstream_reachable",
-      "source": "awesome-zhuiju-free"
+      "source": "awesome-zhuiju-free",
+      "syncStatus": "listed_in_upstream",
+      "lastSyncedAt": "2026-10-27T09:09:43.729Z"
     },
     {
       "id": "luoxue",
       "name": "洛雪TV",
-      "url": "https://tv.lxyy.club",
+      "url": "https://tv.lxyy.club/",
       "category": "4K影视",
       "description": "来源：awesome-zhuiju-free；上游 2026-10-26 检测主页可访问，搜索功能未单独验证。",
       "status": "upstream_reachable",
-      "source": "awesome-zhuiju-free"
+      "source": "awesome-zhuiju-free",
+      "syncStatus": "listed_in_upstream",
+      "lastSyncedAt": "2026-10-27T09:09:43.729Z"
     },
     {
       "id": "xigua",
       "name": "西瓜影视",
-      "url": "https://www.kanmovie.com",
+      "url": "https://www.kanmovie.com/",
       "category": "综合影视",
       "description": "来源：awesome-zhuiju-free；上游 2026-10-26 检测主页可访问，搜索功能未单独验证。",
       "status": "upstream_reachable",
-      "source": "awesome-zhuiju-free"
+      "source": "awesome-zhuiju-free",
+      "syncStatus": "listed_in_upstream",
+      "lastSyncedAt": "2026-10-27T09:09:43.729Z"
     },
     {
       "id": "zip0",
       "name": "ZIP0",
-      "url": "https://zip0.com",
+      "url": "https://zip0.com/?r=KBDIG8",
       "category": "影视搜索",
       "description": "来源：awesome-zhuiju-free；上游 2026-10-26 检测主页可访问，搜索功能未单独验证。",
       "status": "upstream_reachable",
-      "source": "awesome-zhuiju-free"
+      "source": "awesome-zhuiju-free",
+      "syncStatus": "listed_in_upstream",
+      "lastSyncedAt": "2026-10-27T09:09:43.729Z"
     },
     {
       "id": "jianyun",
       "name": "简云影视",
-      "url": "https://jianyunys.com",
+      "url": "https://jianyunys.com/",
       "category": "高清影视",
       "description": "来源：awesome-zhuiju-free；上游 2026-10-26 检测主页可访问，搜索功能未单独验证。",
       "status": "upstream_reachable",
-      "source": "awesome-zhuiju-free"
+      "source": "awesome-zhuiju-free",
+      "syncStatus": "listed_in_upstream",
+      "lastSyncedAt": "2026-10-27T09:09:43.729Z"
     },
     {
       "id": "fandazi",
@@ -62,7 +74,9 @@
       "category": "电影电视剧动漫",
       "description": "来源：awesome-zhuiju-free；上游 2026-10-26 检测主页可访问，搜索功能未单独验证。",
       "status": "upstream_reachable",
-      "source": "awesome-zhuiju-free"
+      "source": "awesome-zhuiju-free",
+      "syncStatus": "listed_in_upstream",
+      "lastSyncedAt": "2026-10-27T09:09:43.729Z"
     },
     {
       "id": "qingkong",
@@ -71,7 +85,10 @@
       "category": "动漫",
       "description": "来源：awesome-zhuiju-free；上游 2026-10-26 检测主页可访问，搜索功能未单独验证。",
       "status": "upstream_reachable",
-      "source": "awesome-zhuiju-free"
+      "source": "awesome-zhuiju-free",
+      "syncStatus": "listed_in_upstream",
+      "lastSyncedAt": "2026-10-27T09:09:43.729Z"
     }
-  ]
+  ],
+  "syncSource": "https://raw.githubusercontent.com/laoma528/awesome-zhuiju-free/main/resources/resources.json"
 }
