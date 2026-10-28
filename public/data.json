@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T09:09:43.729Z",
+  "updatedAt": "2026-10-28T09:49:45.187Z",
   "resources": [
     {
       "id": "kankanya",
@@ -10,7 +10,7 @@
       "status": "upstream_reachable",
       "source": "awesome-zhuiju-free",
       "syncStatus": "listed_in_upstream",
-      "lastSyncedAt": "2026-10-27T09:09:43.729Z"
+      "lastSyncedAt": "2026-10-28T09:49:45.186Z"
     },
     {
       "id": "chuangxiang",
@@ -21,7 +21,7 @@
       "status": "upstream_reachable",
       "source": "awesome-zhuiju-free",
       "syncStatus": "listed_in_upstream",
-      "lastSyncedAt": "2026-10-27T09:09:43.729Z"
+      "lastSyncedAt": "2026-10-28T09:49:45.187Z"
     },
     {
       "id": "luoxue",
@@ -32,7 +32,7 @@
       "status": "upstream_reachable",
       "source": "awesome-zhuiju-free",
       "syncStatus": "listed_in_upstream",
-      "lastSyncedAt": "2026-10-27T09:09:43.729Z"
+      "lastSyncedAt": "2026-10-28T09:49:45.187Z"
     },
     {
       "id": "xigua",
@@ -43,7 +43,7 @@
       "status": "upstream_reachable",
       "source": "awesome-zhuiju-free",
       "syncStatus": "listed_in_upstream",
-      "lastSyncedAt": "2026-10-27T09:09:43.729Z"
+      "lastSyncedAt": "2026-10-28T09:49:45.187Z"
     },
     {
       "id": "zip0",
@@ -54,7 +54,7 @@
       "status": "upstream_reachable",
       "source": "awesome-zhuiju-free",
       "syncStatus": "listed_in_upstream",
-      "lastSyncedAt": "2026-10-27T09:09:43.729Z"
+      "lastSyncedAt": "2026-10-28T09:49:45.187Z"
     },
     {
       "id": "jianyun",
@@ -65,7 +65,7 @@
       "status": "upstream_reachable",
       "source": "awesome-zhuiju-free",
       "syncStatus": "listed_in_upstream",
-      "lastSyncedAt": "2026-10-27T09:09:43.729Z"
+      "lastSyncedAt": "2026-10-28T09:49:45.187Z"
     },
     {
       "id": "fandazi",
@@ -76,7 +76,7 @@
       "status": "upstream_reachable",
       "source": "awesome-zhuiju-free",
       "syncStatus": "listed_in_upstream",
-      "lastSyncedAt": "2026-10-27T09:09:43.729Z"
+      "lastSyncedAt": "2026-10-28T09:49:45.187Z"
     },
     {
       "id": "qingkong",
@@ -87,7 +87,7 @@
       "status": "upstream_reachable",
       "source": "awesome-zhuiju-free",
       "syncStatus": "listed_in_upstream",
-      "lastSyncedAt": "2026-10-27T09:09:43.729Z"
+      "lastSyncedAt": "2026-10-28T09:49:45.187Z"
     }
   ],
   "syncSource": "https://raw.githubusercontent.com/laoma528/awesome-zhuiju-free/main/resources/resources.json"
