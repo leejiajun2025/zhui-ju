@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T10:33:45.205Z",
+  "updatedAt": "2026-11-09T11:47:42.634Z",
   "resources": [
     {
       "id": "kankanya",
@@ -10,7 +10,7 @@
       "status": "upstream_reachable",
       "source": "awesome-zhuiju-free",
       "syncStatus": "listed_in_upstream",
-      "lastSyncedAt": "2026-11-08T10:33:45.204Z"
+      "lastSyncedAt": "2026-11-09T11:47:42.632Z"
     },
     {
       "id": "chuangxiang",
@@ -21,7 +21,7 @@
       "status": "upstream_reachable",
       "source": "awesome-zhuiju-free",
       "syncStatus": "listed_in_upstream",
-      "lastSyncedAt": "2026-11-08T10:33:45.204Z"
+      "lastSyncedAt": "2026-11-09T11:47:42.633Z"
     },
     {
       "id": "luoxue",
@@ -32,7 +32,7 @@
       "status": "upstream_reachable",
       "source": "awesome-zhuiju-free",
       "syncStatus": "listed_in_upstream",
-      "lastSyncedAt": "2026-11-08T10:33:45.204Z"
+      "lastSyncedAt": "2026-11-09T11:47:42.633Z"
     },
     {
       "id": "xigua",
@@ -43,7 +43,7 @@
       "status": "upstream_reachable",
       "source": "awesome-zhuiju-free",
       "syncStatus": "listed_in_upstream",
-      "lastSyncedAt": "2026-11-08T10:33:45.204Z"
+      "lastSyncedAt": "2026-11-09T11:47:42.633Z"
     },
     {
       "id": "zip0",
@@ -54,7 +54,7 @@
       "status": "upstream_reachable",
       "source": "awesome-zhuiju-free",
       "syncStatus": "listed_in_upstream",
-      "lastSyncedAt": "2026-11-08T10:33:45.204Z"
+      "lastSyncedAt": "2026-11-09T11:47:42.633Z"
     },
     {
       "id": "jianyun",
@@ -65,7 +65,7 @@
       "status": "upstream_reachable",
       "source": "awesome-zhuiju-free",
       "syncStatus": "listed_in_upstream",
-      "lastSyncedAt": "2026-11-08T10:33:45.204Z"
+      "lastSyncedAt": "2026-11-09T11:47:42.633Z"
     },
     {
       "id": "fandazi",
@@ -76,7 +76,7 @@
       "status": "upstream_reachable",
       "source": "awesome-zhuiju-free",
       "syncStatus": "listed_in_upstream",
-      "lastSyncedAt": "2026-11-08T10:33:45.204Z"
+      "lastSyncedAt": "2026-11-09T11:47:42.633Z"
     },
     {
       "id": "qingkong",
